@@ -1,0 +1,112 @@
+[
+  {
+    "nombre": "México",
+    "latitud": 23.6345,
+    "longitud": -102.5528
+  },
+  {
+    "nombre": "Colombia",
+    "latitud": 4.5709,
+    "longitud": -74.2973
+  },
+  {
+    "nombre": "España",
+    "latitud": 40.4637,
+    "longitud": -3.7492
+  },
+  {
+    "nombre": "Argentina",
+    "latitud": -38.4161,
+    "longitud": -63.6167
+  },
+  {
+    "nombre": "Estados Unidos",
+    "latitud": 37.0902,
+    "longitud": -95.7129
+  },
+  {
+    "nombre": "Brasil",
+    "latitud": -14.2350,
+    "longitud": -51.9253
+  },
+  {
+    "nombre": "Francia",
+    "latitud": 46.6034,
+    "longitud": 1.8883
+  },
+  {
+    "nombre": "Alemania",
+    "latitud": 51.1657,
+    "longitud": 10.4515
+  },
+  {
+    "nombre": "Italia",
+    "latitud": 41.8719,
+    "longitud": 12.5674
+  },
+  {
+    "nombre": "Reino Unido",
+    "latitud": 55.3781,
+    "longitud": -3.4360
+  },
+  {
+    "nombre": "Canadá",
+    "latitud": 56.1304,
+    "longitud": -106.3468
+  },
+  {
+    "nombre": "Sudáfrica",
+    "latitud": -30.5595,
+    "longitud": 22.9375
+  },
+  {
+    "nombre": "Australia",
+    "latitud": -25.2744,
+    "longitud": 133.7751
+  },
+  {
+    "nombre": "China",
+    "latitud": 35.8617,
+    "longitud": 104.1954
+  },
+  {
+    "nombre": "India",
+    "latitud": 20.5937,
+    "longitud": 78.9629
+  },
+  {
+    "nombre": "Japón",
+    "latitud": 36.2048,
+    "longitud": 138.2529
+  },
+  {
+    "nombre": "Rusia",
+    "latitud": 61.5240,
+    "longitud": 105.3188
+  },
+  {
+    "nombre": "Egipto",
+    "latitud": 26.8206,
+    "longitud": 30.8025
+  },
+  {
+    "nombre": "Pakistán",
+    "latitud": 30.3753,
+    "longitud": 69.3451
+  },
+  {
+    "nombre": "Arabia Saudita",
+    "latitud": 23.8859,
+    "longitud": 45.0792
+  },
+  {
+    "nombre": "Turquía",
+    "latitud": 38.9637,
+    "longitud": 35.2433
+  },
+  {
+    "nombre": "Indonesia",
+    "latitud": -0.7893,
+    "longitud": 113.9213
+  }
+]
